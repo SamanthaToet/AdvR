@@ -1,2 +1,2 @@
 # AdvR
-Practice exercised from Advanced R: https://adv-r.hadley.nz/
+Practice exercises from Advanced R: https://adv-r.hadley.nz/
